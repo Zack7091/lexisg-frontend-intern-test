@@ -64,3 +64,7 @@ npm install
 npm start
 Then open:
 👉 http://localhost:3000
+
+## 🔗 Live Demo
+
+👉 [Click here to view the live app](https://glistening-sherbet-11ea7c.netlify.app/)
